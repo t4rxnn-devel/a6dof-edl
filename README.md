@@ -128,5 +128,4 @@ The integration tests run the entire mission twice (guided + unbanked baseline) 
 4. Planet, P., et al., *Orion Entry Guidance Development and Testing*, AIAA GNC, 2010.
 5. Zipfel, P. H., *Modeling and Simulation of Aerospace Vehicle Dynamics*, AIAA, 2014.
 
-## You can read or download the complete GNC specification technical report here: 
-[Download A6DOF-EDL Technical Report (PDF)](a6dof-edl.pdf)
+You can download the full technical report here: [Download A6DOF-EDL Paper (PDF)](a6dof-edl.pdf)
