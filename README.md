@@ -1,5 +1,7 @@
 # A6DOF-EDL
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22127184.svg)](https://doi.org/10.5281/zenodo.22127184)
+
 **Closed-Loop Bank-Vector Guidance and Autonomous Atmospheric Skip-Out Suppression for Planetary Entry Vehicles**
 
 A fully integrated, non-singular 6-Degree-of-Freedom (6-DOF) translational and attitude dynamics flight framework with closed-loop lift-vector bank modulation, implementing the GNC specification technical report *"A6DOF-EDL"* (August 2026).
